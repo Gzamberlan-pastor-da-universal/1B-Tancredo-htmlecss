@@ -1,7 +1,7 @@
 
 body{
     text-align: center;
-    background-color: aqua;
+    background-color: #171717;
     margin: 0;
  }
  
@@ -20,20 +20,20 @@ body{
  
  h1{
       font-size: 30px;
-      color: blue;
+      color: #DA0037;
  }
  
  .logo{
       width: 10%;
-      border-radius: 100%
-      margin-left 15px;
-      box-shadow: 2px 2px #291f1f;
+      border-radius: 100%;
+      margin-left: 15px;
+      box-shadow: 2px 2px #DA0037;
  }
  
  nav a {
        font-size: 20px;
        padding-left: 20px;
-       color: #ddcfcf;
+       color: #EDEDED;
        text-decoration: none;
        text-transform: uppercase;
  }
